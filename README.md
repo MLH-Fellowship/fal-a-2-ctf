@@ -1,2 +1,2 @@
-# fal-a-2-ctf
-24.FAL.A.2 CTF
+# fal-a-ctf
+24.FAL.A CTF
